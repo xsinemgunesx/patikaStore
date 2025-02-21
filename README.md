@@ -1,6 +1,14 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+# patikaStore
+React Native First Project
+
+![p1](https://github.com/user-attachments/assets/aac1e2e6-3114-4482-a209-5530f3818f8b)
+
+
+![p2](https://github.com/user-attachments/assets/76f6c6c8-170e-4bfa-afa7-c56a4c9bd107)
+
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
